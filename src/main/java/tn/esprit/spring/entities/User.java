@@ -1,6 +1,7 @@
 package tn.esprit.spring.entities;
 
 //comment
+//Degla
 import java.io.Serializable;
 import java.util.Date;
 
